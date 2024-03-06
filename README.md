@@ -6,5 +6,6 @@ As a first pass I made a proof of concept to show that we could get the data he 
 
 ### Helpful resources: 
 - [YouTube tutorial](https://www.youtube.com/watch?v=WAmEZBEeNmg) for getting set up with the API
+- [YouTube tutorial](https://www.youtube.com/watch?v=olY_2MW4Eik) for getting set up with OAuth 
 - [Spotify Developer Documentation](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
 - [Client-Credential Flow Documentation](https://developer.spotify.com/documentation/web-api/tutorials/client-credentials-flow)
